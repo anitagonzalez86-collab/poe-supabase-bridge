@@ -46,7 +46,7 @@ def handle_request():
 
     def generate():
         # DESPUÉS (con comillas triples, a prueba de errores)
-chunk = f"""data: {{"text": "{json.dumps(responseText)[1:-1]}"}}\n\n"""
+        chunk = f"""data: {{"text": "{json.dumps(responseText)[1:-1]}"}}\n\n"""
         yield chunk
 
     return Response(generate(), mimetype='application/json-seq')
