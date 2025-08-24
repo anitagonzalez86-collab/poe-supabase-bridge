@@ -45,7 +45,8 @@ def handle_request():
         responseText = "Error al conectar con la base de datos."
 
     def generate():
-        chunk = f'data: {{"text": "{json.dumps(responseText)[1:-1]}"}}\n\n'
+        # DESPUÉS (con comillas triples, a prueba de errores)
+chunk = f"""data: {{"text": "{json.dumps(responseText)[1:-1]}"}}\n\n"""
         yield chunk
 
     return Response(generate(), mimetype='application/json-seq')
