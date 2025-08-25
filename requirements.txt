@@ -2,4 +2,6 @@ flask
 supabase
 python-dotenv
 gunicorn
-requests
+google-generativeai
+sentence-transformers
+torch
