@@ -1,0 +1,1009 @@
+Capítulo
+ Síndrome del túnel carpiano
+ Luca Padua, Costanza Pazzaglia, Ana Isabel de la Llave Rincón
+ Introducción 
+Anatomía 
+Mecanismo patológico del síndrome
+ del túnel carpiano 
+Mecanismos de sensibilización
+ en el síndrome del túnel carpiano 
+361
+ 361 
+362 
+362 
+Diagnóstico del síndrome del túnel carpiano 363
+ Exploración clínica 
+363
+ Cuestionarios 
+Evaluación electrodiagnóstica 
+Evaluación ecográfica 
+Pronóstico 
+Pronóstico del síndrome del túnel
+ carpiano no tratado 
+Tratamiento 
+Síndrome del túnel carpiano y embarazo 
+Conclusiones 
+INTRODUCCIÓN
+ 364
+ 364
+ 364
+ 365 
+365
+ 366
+ 366
+ 366
+ 28
+ 100.000 hombres, con una relación entre mujeres y hombres 
+de 2:1. Bongers et al. (2007) han descrito recientemente una 
+tasa de incidencia del STC de 1,8/1.000 (IC al 95%, 1,7-2), 
+de 2,8 (IC al 95%, 2,6-3,1) en las mujeres y de 0,9 (IC al 
+95%, 0,8-1) en los hombres, con una relación entre mujeres 
+y hombres de 3:1 (Bongers et al., 2007). Además, en este 
+estudio se demostró que la incidencia de STC calculada en 
+2001 era 1,5 veces mayor que en 1987 (una diferencia que 
+desapareció después de subdividir los pacientes en función 
+de su edad y sexo) (Bongers et al., 2007). En EE. UU. se ha 
+calculado que alrededor de un millón de personas nece
+ sita asistencia por STC y en ese país se realizan en tomo a
+ 200.000 intervenciones quirúrgicas, con unos costes sociales 
+que ascienden a millones de dólares (Tanaka et al., 1995).
+ El análisis de los estudios publicados plantea la dificultad 
+de calcular con precisión la incidencia y prevalencia del STC, 
+ya que se trata de una patología muy frecuente que, como ve
+ remos a continuación, se puede asociar al trabajo manual. Es
+ ta última controvertida asociación significa que la incidencia y 
+prevalencia del STC se calculan a menudo de forma específica 
+para cada población; es más, otro factor de confusión podría 
+ser el método utilizado para establecer el diagnóstico de STC, 
+como describieron Atroshi et al. (1999). En el estudio de 
+Atroshi et al. (1999), la combinación de evaluaciones clínicas 
+y neurofisiológicas contribuyó a diagnosticar el STC en uno 
+de cada cinco sujetos sintomáticos en la población general.
+ El síndrome del túnel carpiano (STC) se caracteriza por la 
+compresión del nervio mediano en el túnel del carpo. Se trata 
+de una patología frecuente que afecta al 10% de la población 
+según la American Academy of Neurology (AAN, 1993a,b; 
+Olney, 2001). Se considera el trastorno por compresión 
+nerviosa más frecuente del miembro superior, con tasas de 
+prevalencia descritas del 3,8% (IC al 95%, 3,1-4,6%) en mu
+ jeres y del 2,7% (IC al 95%, 2,1-3,4%) en hombres (Atroshi 
+et al., 1999). Bland et al. (2003) encontraron una incidencia 
+anual de 139,4 casos por 100.000 mujeres y 67,2 casos por
+ ANATOMÍA
+ En el túnel del carpo, el nervio mediano está rodeado por 
+huesos en tres de sus lados y por el ligamento transverso 
+del carpo en la parte superior. El nervio se encuentra entre 
+los nueve tendones flexores de la mano y proporciona la 
+función, la sensibilidad y el movimiento al primer dedo de 
+la mano y a la mitad del dedo anular (fig. 28-1).
+ 361
+ 2013. Elsevier España, S.L. Reservados todos los derechos
+Parte
+ | 5 | 
+Regiones de la muñeca y la mano
+ Figura 28-1 Anatomía del túnel carpiano.
+ Las ramas del nervio mediano para los flexores del dedo 
+y la muñeca se originan en el antebrazo, mientras que las 
+ramas motoras, que controlan los músculos flexor y aduc
+ tor del pulgar, y las ramas sensitivas, que proporcionan la 
+sensibilidad táctil a más de la mitad de la mano, se originan 
+normalmente al final del túnel.
+ La compresión del nervio puede deberse al descenso del 
+tamaño del conducto, al aumento del tamaño de los ten
+ dones o a ambos. Si los lectores desean más información 
+pueden consultar la obra de Heidelberg al respecto (1989).
+ MECANISMO PATOLÓGICO 
+DEL SÍNDROME DEL TÚNEL CARPIANO
+ En la mayoría de los casos, el STC es idiopático (Stern- 
+bach, 1999), aunque en ocasiones se asocia a traumatismo, 
+embarazo, hipotiroidismo, mieloma múltiple, amiloidosis, 
+artritis reumatoide o acromegalia (Stevens et al., 1992). 
+Como se comentó anteriormente, en esta patología las modi
+ ficaciones que se producen en el túnel carpiano son respon
+ sables de la compresión del nervio mediano, por ejemplo 
+en caso de:
+ • Artritis reumatoide, que causa la inflamación 
+de los tendones flexores con la consiguiente 
+compresión del nervio mediano.
+ • Embarazo e hipotiroidismo, que provocan retención de 
+líquidos en los tejidos con la tumefacción consecuente 
+de la membrana tenosinovial (se comentará el papel 
+del embarazo con más detalle más adelante
+ en este capítulo).
+ • Acromegalia, que provoca la compresión del nervio 
+por el crecimiento anómalo de los huesos que rodean 
+la mano y la muñeca.
+ • Tumores (normalmente, benignos), como un ganglión 
+o un lipoma, que pueden hacer protrusión en el túnel 
+carpiano, y reducir la cantidad de espacio. Se trata
+ de una causa muy poco frecuente (<1%). Los tumores 
+del túnel carpiano pueden simular un STC (Padua 
+et al., 2006) y en esos casos la evaluación ecográfica 
+ha sido fundamental. Este tema se comentará 
+más adelante (Granata et al., 2008).
+ • La obesidad también aumenta el riesgo de STC; 
+un IMC >29 (sujetos obesos) aumenta el riesgo en 
+2,5 veces en comparación con un IMC <20 (sujetos 
+delgados) (Wemer et al., 1994).
+ • El síndrome de doble atrapamiento es una teoría 
+especulativa y controvertida según la cual
+ la presencia de compresión o irritación de las ramas 
+nerviosas que llegan al nervio mediano en el cuello 
+o en algún punto por encima de la muñeca aumenta 
+la vulnerabilidad del nervio para una compresión 
+en la muñeca. Pierre-Jerome y Bekkelund (2005) 
+describieron que los pacientes con STC presentaban 
+una incidencia mayor de estrechamiento del agujero 
+cervical en comparación con los controles. Estos 
+autores propusieron que el compromiso del agujero 
+nervioso podría causar la compresión del nervio y, 
+posiblemente, un síndrome de doble atrapamiento 
+en pacientes con STC. No obstante, las evidencias 
+de la existencia real de este síndrome en el STC 
+son escasas (Wilboum y Gilliatt, 1997; Russell, 2008).
+ • Hay un gran número de traumatismos que pueden 
+causar el STC (fractura de Colles, luxación
+ de uno de los huesos del carpo en la muñeca, 
+formación de un hematoma dentro de la muñeca, etc.).
+ • El papel de las actividades manuales y el STC aún 
+es motivo de debate. Varios autores determinaron 
+que existe una relación importante entre las posiciones 
+de la mano y el aumento de la presión en el túnel 
+carpiano (Keir et al., 1998; Luchetti et al., 1998)
+ y apoyan con fuerza la hipótesis de que el uso 
+enérgico de las manos, su uso repetitivo y la vibración 
+mano-brazo pueden causar o contribuir al STC.
+ Aunque otros estudios no apoyan la relación entre 
+la actividad manual y el STC (Chiang et al., 1993; 
+Moore y Garg 1994). A pesar del trabajo de 
+los investigadores, el debate está aún lejos de terminar. 
+Se recomienda a los lectores que consulten otros textos para 
+entender mejor esos mecanismos (Wemer, 2006; Van Rijn 
+etal., 2009).
+ MECANISMOS DE SENSIBILIZACIÓN 
+EN EL SÍNDROME DEL TÚNEL 
+CARPIANO
+ Aunque no se conoce con detalle la etiología del STC, hay 
+algunos datos que indican la afectación del sistema nocicep- 
+tivo en su conjunto. En estudios previos se ha investigado 
+la función de las fibras termorreceptoras nociceptivas en 
+pacientes con STC, y en algunos de ellos se han encontrado 
+umbrales elevados para el dolor térmico en los dedos y la 
+palma de la mano afectada (Arendt-Nielsen et al., 1991; 
+Westerman y Delaney, 1991; Goadsby y Burke, 1994). Lang 
+et al. (1995) propusieron que la intensidad del dolor en 
+el STC depende de las alteraciones de la función nerviosa 
+periférica y central.
+ 362
+Capítulo | 28 | Síndrome del túnel carpiano
+ En estudios más recientes se ha indicado que el 45% de 
+los pacientes con STC también refería síntomas proximales, 
+lo que podría estar relacionado con mecanismos del sistema 
+nervioso central (Zannete et al., 2006, 2007). Chow et al. 
+(2005) encontraron dolor cervical en el 14% de los pacien
+ tes con STC y Tucker et al. (2007) encontraron aumento 
+generalizado de los umbrales de vibración bilateralmente 
+en pacientes con STC, lo que indica una alteración generali
+ zada de las funciones somatosensitivas y no una neuropatía 
+periférica aislada. De hecho, en dos estudios de imagen se 
+ha demostrado una reorganización del mapa cortical en la 
+corteza somatosensitiva primaria (SI) de pacientes con STC, 
+confirmando la posible participación de mecanismos cen
+ trales en el STC (Tecchio et al., 2002; Napadow et al., 2006).
+ Además, en estudios clínicos recientes también se apoya 
+la presencia de mecanismos de sensibilización periféricos 
+y centrales en pacientes con STC moderado. Fernández de 
+las Peñas et al. (2009a) observaron una importante dis
+ minución bilateral de los umbrales de dolor a la presión 
+(UDP) en pacientes con STC unilateral (clínico y neurofisio- 
+lógico) comparado con los controles sanos. En este estudio 
+se constataron bajos UDP bilateralmente sobre los nervios 
+Elsevier. Fotocopiar sin autorización es un delito.
+ mediano, radial y cubital, el túnel carpiano, la articulación 
+cigapofisaria C5-C6 y el músculo tibial anterior. Un des
+ censo significativo del UDP sobre la articulación cigapofisaria 
+C5-C6 puede representar la existencia de sensibilización 
+segmentaria del sistema nodceptivo en el STC, mientras que 
+el descenso bilateral del UDP sobre el músculo tibial anterior 
+indicaría una sensibilización sensitiva multisegmentaria o 
+sensibilización del sistema nervioso central en pacientes 
+con STC (Fernández de las Peñas et al., 2009a). De la Llave 
+Rincón et al. (2009) describieron que los padentes con STC 
+unilateral también mostraban hiperalgesia térmica bilate
+ ralmente (umbrales de dolor al calor más bajos y descenso 
+del umbral de dolor al frío), pero no hipoestesia (umbral de 
+detección térmica normal) en comparadón con los sujetos 
+sanos. De nuevo, las variaciones bilaterales en pacientes 
+con diagnóstico unilateral (clínico y neurofisiológico) de 
+STC reflejan mecanismos centrales de sensibilizadón. Esos 
+hallazgos se apoyan en estudios con animales en los que la 
+patología nerviosa periférica de una zona localizada puede 
+causar efectos dispersos, induidos los efectos en extremida
+ des aparentemente no afedadas (Koltzenburg et al., 1999; 
+Kleinschnitz et al., 2005).
+ En un estudio redente en el que se investigaba el deterioro 
+del control motor fino y las habilidades manuales en el STC 
+unilateral también se demostraron deficiencias bilaterales en 
+la capacidad de control motor fino y en la fuerza de prensión 
+de la pinza (Fernández de las Peñas et al., 2009b). Los au
+ tores de este estudio propusieron que el deterioro bilateral 
+del control motor y la fuerza de prensión deficiente durante 
+la pinza manual también pueden reflejar la reorganización 
+de la estrategia de control motor del sistema nervioso cen
+ tral como consecuencia del dolor en el STC, una hipótesis 
+apoyada porTamburin et al. (2008).
+ Por último, estos estudios también demostraron que los 
+defectos sensitivos y motores bilaterales guardaban reladón 
+con la intensidad y la duración de los síntomas de dolor,
+ apoyando el papel del estímulo periférico para inidar y man
+ tener una sensibilizadón central amplia (De la Llave Rincón 
+et al., 2009; Fernández de las Peñas et al., 2009a,b). Gracdy et 
+al. (1992) propusieron un modelo de dolor neuropático 
+en el que las aferendas nodceptivas mantenidas procedentes 
+de un foco nodceptivo periférico mantienen dinámicamente 
+la alteradón del procesamiento central. En estos casos, po
+ dría decirse que una afecdón dolorosa, como la isquemia 
+del nervi nervorum (Watkins y Maier, 2004) (nervios que 
+inervan las capas de tejido conjuntivo del propio nervio) 
+sensibilizada por la compresión del nervio mediano en el 
+túnel carpiano (Hall y Elvey, 1999), puede actuar como 
+desencadenante de una sensibilización gradual de las vías 
+nodceptivas en pacientes con STC. Debería investigarse el 
+papel de estos mecanismos de sensibilizadón en la evoludón 
+del STC.
+ DIAGNÓSTICO DEL SÍNDROME 
+DEL TÚNEL CARPIANO
+ Exploración clínica
+ La pmeba patrón para el diagnóstico del STC es la valoración 
+del cuadro clínico, según los criterios diagnósticos de la 
+AAN (1993a,b): parestesias, dolor, tumefacdón, debilidad o 
+torpeza de la mano, provocados o empeorados por el sueño, 
+la postura mantenida de la mano o el brazo, o la acción 
+repetitiva de la mano o la muñeca, que se atenúan al cambiar 
+la postura o sacudir la mano, junto a defectos sensitivos en la 
+región de la mano inervada por el nervio mediano y defecto 
+motor o hipotrofia de los músculos de la eminencia tenar 
+inervados por ese nervio. Wainner et al. (2005) desarrollaron 
+un modelo de predicción dínica para el diagnóstico del STC 
+compuesto por una pregunta (agitar la mano para la mejoría 
+de los síntomas), índice de la muñeca >0,67, puntuadón 
+en la escala de gravedad de los síntomas >1,9, descenso de 
+la sensibilidad en el territorio del nervio mediano del dedo 
+pulgar y edad >45 años (CP, 18,3).
+ Utilizando una dasificadón neurofisiológica, en estudios 
+redentes se ha demostrado la relación entre la distribución 
+de los síntomas sensitivos y la intensidad del STC. Los 
+pacientes con una patología menos grave se quejaban de 
+síntomas sensitivos con distribución en guante, mientras 
+que los padentes más graves aquejaban síntomas sensitivos 
+con la distribution «dásica» del nervio mediano (Caliandro 
+et al., 2006).
+ La anamnesis es muy importante para establecer el diag
+ nóstico diferencial, especialmente porque el STC puede 
+ser secundario a patologías endocrinas y metabólicas. El 
+tratamiento de la patología primaria puede hacer remitir el 
+STC. Además, en la exploración dínica es posible utilizar 
+una escala histórica y objetiva (Hi-Ob) del STC que in
+ cluya dos mediciones (Giannini et al., 2002). La primera 
+engloba la anamnesis clínica y subescalas objetivas: 1) pares
+ tesias nocturnas solo; 2) parestesias nocturna y diurna; 
+3) defectos sensitivos; 4) hipotrofia o deficiencia motora de
+ 363
+Parte
+ | 5 | 
+Regiones de la muñeca y la mano
+ Figura 28-2 Prueba de Phalen.
+ los músculos de la eminencia tenar inervados por el nervio 
+mediano, y 5) parálisis de los músculos de la eminencia 
+tenar inervados por el mediano. En la segunda se evalúa 
+la presencia o ausencia de dolor utilizando las respues
+ tas orientadas por el paciente de elección obligada, «sí» o 
+«no». Por lo tanto, la puntuación Hi-Ob está compuesta por 
+una cifra (Hi-Ob) con o sin la variable de dolor (Giannini 
+et al., 2002).
+ La exploración física consiste en la pmeba de Phalen 
+(fig. 28-2), realizada mediante una flexión forzada pasiva 
+prolongada (1 min) de la muñeca, la pmeba de Tinel, que 
+consiste en la percusión de la zona de hipertrofia del nervio 
+mediano en la eminencia tenar, la función motora de los 
+músculos inervados por el mediano y la función sensitiva 
+(como material estándar para la estimulación de la piel se 
+utiliza algodón hidrófilo).
+ Cuestionarios
+ Cuando el médico desea ayudar a sus pacientes y obtener 
+una evaluación exhaustiva del STC, también le resulta útil la 
+evaluación que hace el paciente desde su propia perspectiva. 
+El cuestionario más utilizado es el Boston Carpal Tunnel 
+Questionnaire (BCTQ) (Levine et al., 1993), que evalúa dos 
+dominios del STC: «síntomas» (SYMPT = síntomas orienta
+ dos por el paciente) en una escala de 11 puntos y «estado 
+funcional» (FUNCT = función orientada por el paciente) en 
+una escala de 8 puntos. Cada pregunta incluye cinco res
+ puestas posibles y la puntuación de cada sección (SYMPT 
+o FUNCT) se calculan como la media de las respuestas a 
+cada pregunta. La aplicación de este cuestionario en varios 
+estudios multicéntricos sobre STC demostró resultados in
+ teresantes: mientras que la función presenta una correlación 
+lineal significativa en la evaluación de médicos y pacientes, 
+la correlación lineal de los síntomas no es tan clara (Padua 
+et al., 2002). Los pacientes con STC leve o moderado parecen 
+mantener una funcionalidad buena, si bien pueden referir 
+síntomas intensos. Por el contrario, la funcionalidad de la 
+mano se deteriora muchísimo cuando el deterioro nervioso 
+es más intenso, aunque los síntomas pueden ser más leves. 
+Los datos demuestran que el punto de vista del paciente es 
+fiable (Padua et al., 2002).
+ Evaluación electrodiagnóstica
+ La evaluación electrodiagnóstica es muy importante para 
+definir el deterioro del nervio mediano. Ahora, se acepta 
+que para aumentar la sensibilidad de los estudios conven
+ cionales de conducción nerviosa (dedo-muñeca sensitiva y 
+muñeca-tenar motora) deben utilizarse pmebas segmentarias 
+o comparativas (v. más adelante), tal como se recoge en las 
+recomendaciones de la AAN y la AAEM (AAN, 1993a,b). 
+Cuando se obtienen resultados normales con las pmebas ha
+ bituales (manos «estándar negativas»), los estudios siguientes 
+aumentan la sensibilidad electrodiagnóstica:
+ 1. 
+2. 
+3. 
+Pmebas de conducción segmentaria motora o sensitiva 
+en el segmento de palma-muñeca.
+ Estudios comparativos (medianocubital 
+o medianorradial).
+ Estudios segmentarios o comparativos (como índice 
+distal-proximal).
+ En un estudio realizado en pacientes con STC se demostró 
+que la sensibilidad de las pmebas estándar puede alcanzar el 
+83,5% y que la adición de pmebas comparativas o segmen
+ tarias puede desvelar hallazgos anómalos en otro 11,4% de 
+los casos, proporcionando el electrodiagnóstico del STC en 7 
+de cada 10 casos «estándar negativos». Por lo tanto, la sensi
+ bilidad global del protocolo asciende hasta el 94,9% (Padua 
+et al., 1999). La intensidad del deterioro neurofisiológico del 
+STC puede evaluarse y puntuarse aplicando una clasificación 
+neurofisiológica publicada (Padua et al., 1997a,b).
+ EVALUACIÓN ECOGRÁFICA
+ Gracias a los últimos avances tecnológicos (refinamiento de 
+los transductores lineales de banda ancha y alta frecuencia y 
+a la tecnología Doppler color y Doppler power), el bajo coste, 
+la amplia disponibilidad y su facilidad de uso, recientemente 
+se ha aplicado la ecografía al estudio de tendones y nervios.
+ Entre las técnicas de imagen aplicables a tendones y 
+nervios, la ecografía puede evaluar un número mayor de 
+patologías como luxaciones, cambios degenerativos o com
+ presiones focales extrínsecas o intrínsecas. Además, permite 
+apoyar la exploración clínica y electrofisiológica y, en la 
+mayoría de los casos, la exploración ecográfica dirigida pue
+ de hacerse con mayor rapidez y eficacia que las técnicas de 
+imagen basadas en la RM (Martinoli et al., 2002).
+ Desde el punto de vista técnico, la ecografía puede distinguir 
+con facilidad las características de tendones y nervios, aunque 
+sean muy parecidas entre ambos (dimensiones, conformación 
+tubular y aspecto estriado). Los tendones presentan un patrón 
+fibrilar de líneas hiperecoicas paralelas en el plano longitudinal 
+debido a los haces de colágeno y los tabiques de endotendón, 
+con una imagen hiperecoica redonda u ovalada que contiene 
+puntos brillantes (Fomagey Rifkin, 1988; Martinoli etal., 1993), 
+mientras que los nervios presentan un patrón fasdcular debido 
+a los fasdculos neurales lineales paraldos e hipoecoicos, separa
+ dos por bandas hiperecoicas (el epineuro interfasacular) (Graif 
+et al., 1991; Silvestri et al., 1995). En los estudios transversales,
+ 364
+Capítulo | 28 | Síndrome del túnel carpiano
+ Figura 28-3 Nervio mediano en la muñeca (en el túnel carpiano): obsérvese la variación en la forma y la posición del nervio y los 
+tendones en relación con la variación del ángulo de la muñeca. (A) Postura neutral. (B) Muñeca en flexión de 45°. (C) Muñeca en 
+flexión de 90°. (D) Muñeca en extensión máxima.
+ mente en casos con hallazgos neurofisiológicos atípicos 
+(Padua y Martinoli, 2008).
+ PRONÓSTICO
+ Pronóstico del síndrome del túnel 
+carpiano no tratado
+ Elsevier. Fotocopiar sin autorización es un delito.
+ los nervios adoptan un aspecto en panal de abejas con puntos 
+hipoecoicos rodeados por un fondo hiperecoico (fig. 28-3).
+ La aplicación de la ecografía se ha comprobado princi
+ palmente en la evaluación del STC, debido a la perspectiva 
+complementaria que proporciona (Beekman y Visser, 2003; 
+Hobson-Webb y Padua, 2009; Karadag“ et al., 2010; Smith 
+et al., 2009). El STC se puede evaluar utilizando las medicio
+ nes siguientes: superficie transversal (ST), índice de tumefac
+ ción, abombamiento del retináculo, grosor del retináculo, 
+índice de aplanamiento. En varios estudios se ha demostrado 
+que el criterio diagnóstico más útil es la ST, que es la super
+ ficie del nervio mediano calculada en la muñeca utilizando 
+tanto la fórmula elipsoide como el trazado manual. El mejor 
+valor umbral de la ST es >9,875 mm2 a la altura del pisiforme 
+(Wang et al., 2008).
+ Además, se han desarrollado pruebas más sensibles para 
+obtener la mejor sensibilidad y especificidad. Por ejemplo, 
+la relación muñeca-antebrazo (RMA) de la superficie del 
+nervio mediano puede considerarse una medición más 
+sensible que la superficie del nervio mediano solo en 
+la muñeca (Hobson-Webb et al., 2008). La sensibilidad de la 
+combinación de ecografía y neurofisiología es mayor que 
+la de ambas pruebas por separado, por lo que la ecografía se 
+considera una herramienta complementaria útil para evaluar 
+el STC, así se encuentra una correlación positiva entre los 
+hallazgos ecográficos y las mediciones convencionales de la 
+intensidad del STC (clínicas, neurofisiológicas y orientadas 
+por el paciente) (Padua et al., 2008).
+ En conclusión, los datos indican que la ecografía es un 
+complemento útil en el laboratorio de neurofisiología, au
+ menta mucho la potencia diagnóstica y mejora el estudio 
+diagnóstico terapéutico de los pacientes con mononeuropa- 
+tías (Padua et al., 2007) y la evaluación morfológica de los 
+nervios evita los errores diagnósticos graves (p. ej., un tumor 
+del nervio mediano que puede simular un STC), especial
+ Para administrar el mejor abordaje terapéutico es muy 
+importante conocer la evolución del STC no tratado. Son 
+pocos los estudios en los que se ha evaluado este tema (Pa
+ dua et al., 1998, 2001; Resende et al., 2003; Ortiz-Corredor 
+et al., 2008) y todos los autores coincidieron en señalar que 
+muchos pacientes mejoraban espontáneamente. Cuando se 
+analiza la evolución en función del cuadro inicial, se observa 
+que las manos con STC con intensidad inicial baja tienden 
+a empeorar, mientras que tienden a mejorar cuando el de
+ terioro inicial es muy importante (este resultado se observa 
+en todas las mediciones del STC, tanto orientadas por el 
+paciente como neurofisiológicas).
+ Además, el factor que resulta ser más predictivo de la evo
+ lución del STC no tratado es la duración de los síntomas. 
+En particular, una duración prolongada de los síntomas es 
+un factor pronóstico negativo según todas las mediciones 
+orientadas por el paciente, mientras que, por el contrario, 
+esa misma duración prolongada de los síntomas no se asocia 
+significativamente a una exploración neurofisiológica o clíni
+ ca negativa. Con respecto al valor pronóstico positivo de la 
+prueba de tensión de la mano en el período inicial, obsérvese 
+que este valor se debe, probablemente, a la interrupción 
+del estrés. En este sentido, es interesante que el síndrome 
+de compresión en la «anamnesis natural» pueda depender de 
+que el médico tenga una explicación para la fisiopatología
+ 365
+Parte
+ | 5 | 
+Regiones de la muñeca y la mano
+ del STC. La evolución natural de esta patología se altera si 
+los médicos también proporcionan información práctica 
+a los pacientes en espera del diagnóstico sobre las posturas 
+de la mano que se deben evitar.
+ Tratamiento
+ Con respecto a las opciones conservadoras del tratamiento 
+del STC, en una revisión de Piazzini et al. (2007) de 33 es
+ tudios controlados y aleatorizados se demostraron datos de 
+evidencia fuerte (nivel 1) sobre la eficacia de los esteroides 
+locales y orales, de evidencia moderada (nivel 2) sobre 
+la ineficacia de la vitamina B6 y la eficacia de las férulas, 
+y evidencias escasas o contradictorias sobre la eficacia de 
+los AINE, los diuréticos, el yoga, el láser y la ecografía y la 
+ineficacia del ejercicio y la inyección de la toxina botulíni- 
+ca B. En una revisión sistemática reciente centrada en inter
+ venciones de movilización neural para el tratamiento del 
+STC se incluyeron seis estudios y se demostraron efectos 
+débiles o fuertes de los ejercicios de deslizamiento neural y 
+efectos beneficiosos entre las diferentes mediciones (Medina 
+McKeony Yancosek, 2008). No obstante, para estos autores 
+el beneficio del deslizamiento neural se identifica mejor en 
+una subpoblación concreta de pacientes con STC y es posible 
+que sea aún más eficaz en una población con STC menos 
+avanzado. Es urgente encontrar una regla de predicción clí
+ nica que identifica a pacientes con STC que se beneficiarán 
+de las intervenciones de movilización neural.
+ Por lo que respecta al abordaje quirúrgico, en una revi
+ sión Cochrane de 2003 se llegó a la conclusión de que el 
+tratamiento quirúrgico alivia los síntomas significativamente 
+mejor que el uso de férulas, aunque es necesario continuar las 
+investigaciones para determinar si esta conclusión es aplicable 
+a personas con síntomas leves y si el tratamiento quirúrgico 
+es mejor que la inyección de esteroides (Verdugo et al., 2003).
+ Para analizar los factores que influyen en los resultados 
+quirúrgicos en poblaciones diferentes se han llevado a cabo 
+varios estudios en los que, por ejemplo, los resultados de 
+la descompresión quirúrgica fueron parecidos entre ambos 
+sexos (Mondelli et al., 2004a). Por otro lado, los ancianos 
+mostraron una mejoría menor que los pacientes más jóvenes, 
+presumiblemente debido a un mayor daño en el preoperatorio 
+y a la menor capacidad de reparación del nervio comprimido, 
+aunque este aspecto no es una contraindicación a la liberación 
+quirúrgica en los ancianos (Mondelli et al., 2004b). También 
+se ha investigado la presencia de enfermedades asociadas, por 
+ejemplo, los pacientes con diabetes tienen la misma proba
+ bilidad de presentar un desenlace quirúrgico positivo que los 
+pacientes con STC idiopático (Mondelli et al., 2004a).
+ En esa misma línea, el análisis de la rentabilidad del 
+tratamiento no quirúrgico frente al tratamiento quirúrgico 
+demostró que la cirugía, y no propiamente el tratamiento 
+quirúrgico en su conjunto, se debe considerar la forma inicial 
+de tratamiento cuando se diagnostica el STC (confirmado por 
+los estudios de conducción nerviosa), ya que se consigue la 
+resolución de los síntomas con un análisis de costes favora
+ bles (Pomerance et al., 2009).
+ SÍNDROME DEL TÚNEL CARPIANO 
+Y 
+EMBARAZO
+ Como el STC es frecuente durante el embarazo (STCE), se 
+puede considerar una entidad diferenciada. Se ha demos
+ trado que el STCE no desaparece después del parto (puede 
+mejorar pero, de lo contrario, se mantendrá y la compresión 
+prolongada del nervio mediano puede terminar causando 
+un defecto importante), por lo que es necesario evaluar con 
+precisión los síntomas del STC en las mujeres gestantes y, 
+cuando aparece, se deben vigilar tanto clínica como neurofi- 
+siológicamente (la función de la ecografía en el STCE no está 
+bien definida y debe evaluarse al ser una posible herramienta 
+de seguimiento no invasiva).
+ Cuando aparezca al comienzo del embarazo (antes del 
+primer trimestre), la compresión del nervio mediano debe 
+evaluarse cuidadosamente porque puede dar lugar a un STC 
+agudo o discapacitante cuya mejoría es menos frecuente. 
+En caso de STC grave de inicio precoz, la descompresión 
+quirúrgica durante el embarazo puede prevenir daños en el 
+nervio y la influencia psicológica negativa que se produciría 
+después del parto.
+ La aparición de síntomas de STC en el último trimestre es 
+una situación más frecuente, y con una probabilidad mayor 
+de mejorar después del alumbramiento, aunque la mitad 
+de las mujeres pueden referir síntomas de STC durante un 
+período de posparto prolongado. Por lo tanto, se propone 
+una vigilancia clínica y neurofisiológica. Obsérvese que, a 
+pesar de la mejoría de los síntomas, la velocidad de conduc
+ ción sensitiva distal del nervio mediano mejoró, aunque los 
+síntomas persistían en el 84% de las mujeres mucho tiempo 
+después del parto (Mondelli et al., 2007).
+ Aparte del STC agudo, que puede ser una urgencia (en 
+la que es necesaria la descompresión quirúrgica rápida), 
+la primera línea para abordar el STCE debe consistir en un 
+tratamiento conservador, pero se debe valorar la descom
+ presión quirúrgica antes del parto en ausencia de mejoría y 
+en presencia de STC neurofisiológico grave (con desaparición 
+de las respuestas sensitivas o motoras) o de síntomas discapa- 
+dtantes para prevenir no solo d daño del nervio, sino también 
+el deterioro de la calidad de vida como consecuencia de la 
+dificultad y la ansiedad que provocará el manejo del niño.
+ CONCLUSIONES
+ Aunque el STC se ha definido como «problemas complejos 
+con una dolenda "simple"» (Olney, 2001), y así se ha con
+ firmado en un gran número de publicadones relacionadas 
+con todos los aspectos del STC, en los últimos años se ha 
+intentado mejorar los conocimientos sobre él. Habitual
+ mente se han aceptado las herramientas importadas de otros 
+campos, como la ecografía, para mejorar la sensibilidad 
+diagnóstica, si bien la prueba patrón sigue siendo el cuadro 
+clínico. La evoludón natural de esta patología demuestra
+ 366
+Capítulo | 28 | Síndrome del túnel carpiano
+ que algunos pacientes no tratados pueden mejorar, aunque 
+probablemente se debe a que el médico explica al paciente la 
+forma de evitar las posturas erróneas de la mano y, por tanto, 
+se reduce la tensión en ella. Se han utilizado tratamientos 
+conservadores que fueron eficaces, aunque la descompresión 
+quirúrgica, que también se utiliza en ancianos o diabéticos, 
+sigue siendo el tratamiento definitivo y es eficaz desde el 
+punto de vista de la rentabilidad.
+ La opinión de los autores sobre la descompresión quirúrgi
+ ca, basada en su experiencia clínica y en datos no publicados
+ BIBLIOGRAFÍA
+ American Academy of Neurology,
+ 1993a. American Association of 
+Electrodiagnostic Medidne, American 
+Academy of Physical Medicine and 
+Rehabilitation. Practice parameter 
+for electrodiagnostic studies in 
+carpal tunnel syndrome (summary 
+statement). Neurology 43, 2404-2405.
+ sobre la evolución natural del STC, es que la cirugía se propo
+ ne en casos graves (neurofisiológica o clínicamente) cuando 
+la duración de los síntomas es mayor de 1 año y en pacientes 
+mayores de 50 años de edad. En los casos de STC agudo se 
+puede intentar un período breve de tratamiento conservador, 
+pero se debe valorar la descompresión urgente siempre que se 
+sospeche un STC agudo que no es secundario a un episodio 
+estresante en particular (una afección muy poco frecuente, 
+pero muy grave), además de proceder a la evaluación exhaus
+ tiva de una posible causa subdínica primaria.
+ Caliandro, P., La Torre, G., Aprile,
+ I., et al., 2006. Distribution of 
+paresthesias in Carpal Tunnel 
+Syndrome reflects the degree of nerve 
+damage at wrist. Clin. Neurophysiol. 
+117, 228-231.
+ American Academy of Neurology,
+ 1993b. American Association of 
+Electrodiagnostic Medicine, American 
+Academy of Physical Medidne and 
+Rehabilitation. Practice parameter for 
+carpal tunnel syndrome (summary 
+statement). Neurology 43, 2406- 
+2409.
+ Arendt-Nielsen, L., Gregersen, H., Toft, 
+E., Bjerring, P., 1991. Involvement 
+of thin afferents in carpal tunnel 
+syndrome: evaluated quantitatively 
+by argon laser stimulation. Musde 
+Nerve 14, 508-514.
+ Atroshi, I., Gummesson, C., Johnsson,
+ R., et al., 1999. Prevalence of carpal 
+tunnel syndrome in a general 
+population. JAMA 282, 153-158.
+ Elsevier. Fotocopiar sin autorización es un delito.
+ Beekman, R., Visser, L.H., 2003. 
+Sonography in the diagnosis of 
+carpal tunnel syndrome: a critical 
+review of the literature. Muscle Nerve 
+27, 26-33.
+ Bland, J.D., Rudolfer, S.M., 2003.
+ Clinical surveillance of carpal tunnel 
+syndrome in two areas of the United 
+Kingdom, 1991-2001. J. Neurol. 
+Neurosurg. Psychiatry 74, 1674- 
+1679.
+ Bongers, F.J., Schellevis, F.G., van den 
+Bosch, W.J., et al., 2007. Carpal tunnel 
+syndrome in general practice (1987 
+and 2001): inddence and the role of 
+occupational and non-occupational 
+factors. British Journal of Genealogy 
+Practice 57, 36-39.
+ Chiang, H.C., Ko, Y.C., Chen, S.S., et al., 
+1993. Prevalence of shoulder and 
+upper-limb disorders among workers 
+in the fish-processing industry.
+ Scand. J. Work Environ. Health 19, 
+126-131.
+ Chow, C.S., Hung, L.K., Chiu, C.P, et al.,
+ 2005. Is symptomatology useful in 
+distinguishing between carpal tunnel 
+syndrome and cervical spondylosis?. 
+Hand Surg. 10, 1-5.
+ De-la-Uave-Rincón, A.I., 
+Femández-de-las-Peñas, C., 
+Femández-Camero, J., Padua, L., 
+Arendt-Nielsen, L., Pareja, J.A., 
+et al., 2009. Bilateral hand/wrist 
+head and cold hyperalgesia, but not 
+hypoesthesia, in unilateral carpal 
+tunnel syndrome. Exp. Brain Res.
+ 198, 455-463.
+ Femández-de-las-Peñas, C., 
+De-la-Llave-Rincón, A.I., 
+Femández-Camero, J., Cuadrado,
+ M., Arendt-Nielsen, L., Pareja, J., 
+et al., 2009a. Bilateral widespread 
+mechanical pain sensitivity in carpal 
+tunnel syndrome: Evidence of central 
+processing in unilateral neuropathy. 
+Brain 132, 1472-1479.
+ Femández-de-las-Peñas, C., Pérez-de- 
+Heredia, M., Martinez- 
+Piédrola, R., De-la- 
+Llave-Rincón, A.I., Cleland, J.A., 
+et al., 2009b. Bilateral defidts 
+in fine motor control and pinch 
+grip force in patients with unilateral 
+carpal tunnel syndrome. Exp. Brain 
+Res. 194, 29-37.
+ Fomage, B.D., Rifldn, M., 1988.
+ Ultrasound examination of tendons. 
+Radiol. Clin. North Am. 6, 87-107.
+ Giannini, F., Cioni, R., Mondelli,
+ M., et al., 2002. A new dinical 
+scale of carpal tunnel syndrome: 
+validation of the measurement and 
+dinical-neurophysiological assessment. 
+Clin. Neurophysiol. 113, 71-77.
+ Goadsby, P., Burke, D., 1994. Deficit 
+in the function of small and large 
+afferent fibres in confirmed cases 
+of carpal tunnel syndrome. Musde 
+Nerve 17, 614-622.
+ Gracely, R.H., Lynch, S.A., Bennett, G.J.,
+ 1992. Painful neuropathy: altered 
+central processing maintained 
+dynamically by peripheral input.
+ Pain 51, 175-194.
+ Graif, M„ Seton, A, Nerubali, J., et al.,
+ 1991. Sdatic nerve: sonographic 
+evaluation and anatomic-pathologic 
+considerations. Radiology 18, 405-408.
+ Granata, G., Martinoli, C., Pazzaglia,
+ C., et al., 2008. Letter to Editor: 
+Carpal tunnel syndrome due to an 
+atypical deep soft tissue leiomyoma: 
+the risk of misdiagnosis and 
+mismanagement. World J. Surg. 
+Oncol. 6, 22.
+ Hall, T.M., Elvey, R.L., 1999. Nerve 
+trunk pain: physical diagnosis and 
+treatment. Man. Ther. 4, 63-73.
+ Heidelberg, A., 1989. Anatomy of 
+the carpal tunnel, carpal tunnel 
+syndrome, Part 1. Springer, Berlin.
+ Hobson-Webb, L.D., Padua, L., 2009. 
+Median nerve ultrasonography in 
+carpal tunnel syndrome: findings 
+from two laboratories. Musde Nerve
+ 40, 94-97.
+ Hobson-Webb, L.D., Massey, J.M.,
+ Juel, V.C., et al., 2008. The
+ 367
+Parte
+ | 5 | 
+Regiones de la muñeca y la mano
+ ultrasonographic wrist-to-forearm 
+median nerve area ratio in carpal 
+tunnel syndrome. Clin. Neurophysiol. 
+119, 1353-1357.
+ Karadag, Y.S., Karadag, O., Cicekli,
+ E., et al., 2010. Severity of carpal 
+tunnel syndrome assessed with 
+high frequency ultrasonography. 
+Rheumatol. Int. 30 (6), 761-765.
+ Keir, P.J., Bach, J.M., Rempel, D.M.,
+ 1998. Effects of finger posture on 
+carpal tunnel pressure during wrist 
+motion. J. Hand Surg. [Am.] 23, 
+1004-1009.
+ Kleinschnitz, C., Brinkhoff, J., Sommer,
+ C., Stoll, G., 2005. Contra-lateral 
+cytokine gene induction after 
+peripheral nerve lesions: dependence 
+on the mode of injury and NMDA 
+receptor signalling. Molecular Brain 
+Research 136, 23-28.
+ Koltzenburg, M., Wall, P.D., McMahon, 
+S.B., 1999. Does the right side 
+know what the left is doing? Trends 
+Neurosci. 22, 122-127.
+ Lang, E., Claus, D., Neundórfer, B.,
+ Handwerker, H., 1995. Parameters of 
+thick and thin nerve-fibres functions 
+as predictors of pain in carpal tunnel 
+syndrome. Pain 60, 295-302.
+ Levine, D.W., Simmons, B.P., Koris,
+ M.J., et al., 1993. A self-administered 
+questionnaire for the assessment of 
+severity of symptoms and functional 
+status in carpal tunnel syndrome. J. 
+Bone Joint Surg. Am. 75, 1585-1592.
+ Luchetti, R., Schoenhuber, R., Nathan,
+ P., 1998. Correlation of segmental 
+carpal tunnel pressures with changes 
+in hand and wrist positions in 
+patients with carpal tunnel syndrome 
+and controls. J. Hand Surg. 23, 598- 
+602.
+ Martinoli, C., Derchi, L.E., Pastorino, C, 
+et al., 1993. Analysis of echotexture 
+of tendons with US. Radiology 186, 
+839-843.
+ Martinoli, C., Bianchi, S., Dahmane, M., 
+et al., 2002. Ultrasound of tendons 
+and nerves. Eur. Radiol. 12, 44-55.
+ Medina McKeon, J.M., Yancosek, K.E., 
+2008. Neural gliding techniques 
+for the treatment of carpal tunnel 
+syndrome: a systematic review. Journal 
+of Sports Rehabilitation 17, 324-341.
+ Mondelli, M„ Padua, L., Reale, F„ et al., 
+2004a. Outcome of surgical release 
+among diabetics with carpal tunnel 
+syndrome. Arch. Phys. Med. Rehabil. 
+85, 7-13.
+ Mondelli, M„ Padua, L., Reale, F„
+ 2004b. Carpal tunnel syndrome in
+ elderly patients: results of surgical 
+decompression. J. Peripher. Nerv.
+ Syst. 9, 168-176.
+ Mondelli, M., Rossi, S., Monti, E., 
+et al., 2007. Long term follow-up 
+of carpal tunnel syndrome during 
+pregnancy: a cohort study and review 
+of the literature. Electromyogr. Clin. 
+Neurophysiol. 6, 259-271.
+ Moore, J.S., Garg, A., 1994. Upper 
+extremity disorders in a pork 
+processing plant: relationships 
+between job risk factors and 
+morbidity. Am. Ind. Hyg. Assoc. J.
+ 55, 703-715.
+ Napadow, V., Kettner, N., Ryan, A., 
+Kwong, K.K., Audette, J., Hui, K.K.,
+ 2006. Somatosensory cortical 
+plasticity in carpal tunnel syndrome: 
+a cross-sectional fMRI evaluation. 
+Neuroimage 31, 520-530.
+ Olney, RK., 2001. Carpal tunnel 
+syndrome. Complex issues with a 
+'simple' condition. Neurology 56, 
+1431-1432.
+ Ortiz-Corredor, F., Enriquez, F.,
+ Díaz-Ruíz, J., Calambas, N., 2008. 
+Natural evolution of carpal tunnel 
+syndrome in untreated patients. Clin. 
+Neurophysiol. 119, 1373-1378.
+ Padua, L., Martinoli, C., 2008.
+ From square to cube: ultrasound 
+as a natural complement of 
+neurophysiology. Clin. Neurophysiol. 
+119, 1217-1218.
+ Padua, L., Lo Monaco, M„ Padua, R, 
+et al., 1997a. Neurophysiological 
+classification of carpal tunnel 
+syndrome: assessment of 600 
+symptomatic hands. Ital. J. Neurol. 
+Sci. 18, 145-150.
+ Padua, L., Lo Monaco, M„ Gregori, B., 
+et al., 1997b. Neurophysiological 
+classification and sensitivity in 500 
+carpal tunnel syndrome hands. Acta 
+Neurol. Scand. 96, 211-217.
+ Padua, L., Padua, R, Lo Monaco, M., 
+et al., 1998. Natural history of carpal 
+tunnel syndrome according to the 
+neurophysiological classification.
+ Ital. J. Neurol. Sci. 19, 357-361.
+ Padua, L., Giannini, F., Girlanda, P., 
+et al., 1999. Usefulness of segmental 
+and comparative tests in the 
+electrodiagnosis of carpal tunnel 
+syndrome: the Italian multicenter 
+study. Italian CTS Study Group. Ital.
+ I. Neurol. Sd. 20, 315-320.
+ Padua, L., Padua, R, Aprile, I., 
+et al., 2001. Italian CTS Study 
+Group. Carpal tunnel syndrome. 
+Multi-perspective follow-up of
+ untreated carpal tunnel syndrome: 
+a multicenter study. Neurology 56, 
+1459-1466.
+ Padua, L., Padua, R, Aprile, I., et al.,
+ 2002. Carpal tunnel syndrome: 
+relationship between dinical and 
+patient-oriented assessment. Clin. 
+Orthop. Relat. Res. 395, 128-134.
+ Padua, L., Pazzaglia, C., Insola, A., et al.,
+ 2006. Schwannoma of the median 
+nerve (even outside the wrist) may 
+mimic carpal tunnel syndrome. 
+Neurol. Sd. 26, 430-434.
+ Padua, L., Aprile, I., Pazzaglia, C., et al.,
+ 2007. Contribution of ultrasound 
+in a neurophysiological lab in 
+diagnosing nerve impairment: A 
+one-year systematic assessment. Clin. 
+Neurophysiol. 118, 1410-1416.
+ Padua, L., Pazzaglia, C., Caliandro,
+ P., et al., 2008. Carpal tunnel 
+syndrome: ultrasound, 
+neurophysiology, clinical and 
+patient-oriented assessment. Clin. 
+Neurophysiol. 119, 2064-2069.
+ Piazzini, D.B., Aprile, I., Ferrara, P.E., 
+et al., 2007. A systematic review of 
+conservative treatment of carpal 
+tunnel syndrome. Clin. Rehabil. 21, 
+299-314.
+ Pierre-Jerome, C., Bekkelund, S.I., 2005. 
+Magnetic resonance assessment 
+of the double-crush phenomenon 
+in patients with carpal tunnel 
+syndrome: a bilateral quantitative 
+study. Scand. J. Plast. Reconstr. Surg. 
+Hand Surg. 37, 46-53.
+ Pomerance, Zurakowski, D., Fine,
+ I., 2009. The cost-effectiveness of 
+nonsurgical versus surgical treatment 
+for carpal tunnel syndrome. J. Hand 
+Surgery [Am.] 7, 1193-1200.
+ Resende, L.A., Tahara, A., Fonseca, RG., 
+et al., 2003. The natural history of 
+carpal tunnel syndrome. A study of
+ 20 hands evaluated 4 to 9 years after 
+initial diagnosis. Electromyogr. Clin. 
+Neurophysiol. 43, 301-304.
+ Russell, B.S., 2008. Carpal tunnel 
+syndrome and the 'double crush' 
+hypothesis: a review and implications 
+for chiropractic. Chiropr. Osteopat.
+ 16, 2.
+ Silvestri, E., Martinoli, C., Derchi, L.E., 
+et al., 1995. Echotexture of peripheral 
+nerves: correlation between US and 
+histologic findings and criteria to 
+differentiate tendons. Radiology 197, 
+291-296.
+ Smith, C., O'Neill, J., Parasu, N., Finlay, 
+K., 2009. The role of ultrasonography 
+in the assessment of carpal tunnel
+ 368
+Capítulo | 28 | Síndrome del túnel carpiano
+ syndrome. Can. Assoc. Radiol. J. 60, 
+279-280.
+ Stembach, G., 1999. The carpal tunnel 
+syndrome. J. Emerg. Med. 17, 
+519-523.
+ Stevens, J.C., Beard, C.M., O'Fallon, 
+W.M., Kurland, L.T., 1992.
+ Conditions assodated with carpal 
+tunnel syndrome. Mayo Clin. Proc. 
+67, 541-548.
+ Tamburin, S., Cacciatori, C., Marani, S., 
+Zanette, G., 2008. Pain and motor 
+function in carpal tunnel syndrome: 
+A clinical, neurophysiological and 
+psychophysical study. J. Neurol. 255, 
+1636-1643.
+ Tanaka, S., Wild, D.K., Seligman, P.J., 
+et al., 1995. The U.S. prevalence of 
+self-reported carpal tunnel syndrome: 
+1988 national health interview 
+survey data. American Journal of 
+Indirect Medicine 27, 451-470.
+ Tecchio, E, Padua, L., Aprile, I., Rossini, 
+P.M., 2002. Carpal tunnel syndrome 
+modifies sensory hand cortical 
+somatotopy: a MEG study. Hum. 
+Brain Mapp. 17, 28-36.
+ Tucker, A.T., White, P.D., Kosek, E.,
+ et al., 2007. Comparison of vibration
+ perception thresholds in individuals 
+with diffuse upper limb pain and 
+carpal tunnel syndrome. Pain 127,
+ 263-269.
+ van Rijn, R.M., Huisstede, B.M., Koes,
+ B.W., Burdorf, A., 2009. Associations 
+between work-related factors and the 
+carpal tunnel syndrome: a systematic 
+review. Scand. J. Work Environ. 
+Health 35, 19-36.
+ Verdugo, R.J., Salinas, R.A., Castillo,
+ J.L., Cea, J.G., 2003. Surgical versus 
+non-surgical treatment for carpal 
+tunnel syndrome. Cochrane Database 
+Syst. Rev. (3). CD001552.
+ Wainner, R.S., Fritz, J.M., Irrgang, J.J., 
+Delitto, A., Allison, S., Boninger,
+ M.L., 2005. Development of a clinical 
+prediction rule for the diagnosis of 
+carpal tunnel syndrome. Arch. Phys. 
+Med. Rehabil. 86, 609-618.
+ Wang, L.Y., Leong, C.P., Huang, Y.C., 
+et al., 2008. Best diagnostic criterion 
+in high-resolution ultrasonography 
+for carpal tunnel syndrome. Chang 
+GungMed. J. 31, 469-476.
+ Watkins, L., Maier, S., 2004. Neuropathic 
+pain: the immune connection. Pain 
+Clinical Updated 13, 1-4.
+ Wemer, R.A., 2006. Evaluation of
+ work-related carpal tunnel syndrome. 
+J. Occup. Rehabil. 16, 207-222. 
+Werner, R.A., Albers, J.W., Franzblau,
+ A., Armstrong, T.J., 1994. The 
+relationship between body mass 
+index and the diagnosis of carpal 
+tunnel syndrome. Muscle Nerve 17, 
+632-636.
+ Westerman, R.A., Delaney, C.A., 1991. 
+Palmar cold threshold test and 
+median nerve electromyography 
+in carpal tunnel compression 
+neuropathy. Clin. Exp. Neur. 28, 
+154-167.
+ Wilboum, A.J., Gilliatt, R.W., 1997. 
+Double-crush syndrome: a critical 
+analysis. Neurology 1, 21-27.
+ Zanette, G., Marani, S., Tamburin, S.,
+ 2006. Extra-median spread of sensory 
+symptoms in carpal tunnel syndrome 
+suggests the presence of pain- 
+related mechanisms. Pain 2122,
+ 264-270.
+ Zanette, G., Marani, S., Tamburin, S.,
+ 2007. Proximal pain in patients 
+with carpal tunnel syndrome: a 
+clinical neuro-physiological study.
+ J. Peripher. Nerv. Syst. 12, 91-97.
+ Elsevier. Fotocopiar sin autorización es un delito.
+ 369
