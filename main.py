@@ -3,12 +3,12 @@ import os
 from supabase import create_client, Client
 import json
 
-# 1. Conexión a Supabase
 url: str = os.environ.get("SUPABASE_URL")
 key: str = os.environ.get("SUPABASE_KEY")
+# Leemos la nueva clave de Poe
+poe_api_key: str = os.environ.get("POE_API_KEY")
 supabase: Client = create_client(url, key)
 
-# 2. Crear la aplicación del servidor
 app = Flask(__name__)
 
 @app.route('/', methods=['GET'])
@@ -17,6 +17,10 @@ def health_check():
 
 @app.route('/', methods=['POST'])
 def handle_request():
+    # ¡NUEVO! Verificación de seguridad
+    if request.headers.get('Authorization') != f"Bearer {poe_api_key}":
+        return Response(status=401) # No autorizado
+
     body = request.json
     
     dni_usuario = ""
@@ -36,7 +40,6 @@ def handle_request():
             responseText = f"Ficha del Paciente DNI {data.get('dni', '')}:\n"
             responseText += f"- Nombre: {data.get('nombre_completo', 'No especificado')}\n"
             responseText += f"- Historia Clínica: {data.get('n_historia_clinica', 'No especificado')}\n"
-            # Añade aquí el resto de tus columnas
         else:
             responseText = "FICHA NO ENCONTRADA. El DNI no está en la base de datos."
 
@@ -45,7 +48,6 @@ def handle_request():
         responseText = "Error al conectar con la base de datos."
 
     def generate():
-        # DESPUÉS (con comillas triples, a prueba de errores)
         chunk = f"""data: {{"text": "{json.dumps(responseText)[1:-1]}"}}\n\n"""
         yield chunk
 
