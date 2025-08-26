@@ -4,4 +4,5 @@ python-dotenv
 gunicorn
 google-generativeai
 sentence-transformers
-torch
+# Especificamos una versión ligera de torch
+torch --no-cache-dir
