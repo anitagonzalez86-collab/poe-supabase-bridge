@@ -1,4 +1,4 @@
- ```python
+```python
  from flask import Flask, request, send_from_directory
  import os
  from supabase import create_client, Client
